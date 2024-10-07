@@ -13,8 +13,7 @@ public class Disciplina {
 
 	}
 
-	public Disciplina(String nome, String cargaHoraria, String semestre, String ementa, String bibliografiaBasica,
-			String professor) {
+	public Disciplina(String nome, String cargaHoraria, String semestre, String ementa, String bibliografiaBasica, String professor) {
 		super();
 		this.nome = nome;
 		this.cargaHoraria = cargaHoraria;
